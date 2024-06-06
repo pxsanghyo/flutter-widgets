@@ -31,13 +31,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  timezone: 0.9.2
-  syncfusion_flutter_core:
-      path: ../syncfusion_flutter_core
-
-  syncfusion_flutter_datepicker:
-      path: ../syncfusion_flutter_datepicker
-
+  timezone: 0.9.3
+  syncfusion_flutter_core: 25.2.7
+  syncfusion_flutter_datepicker: 25.2.7
   intl: '>=0.18.1 <0.20.0'
 
 dev_dependencies:
